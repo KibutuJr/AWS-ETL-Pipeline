@@ -14,7 +14,7 @@ The pipeline was designed to:
 ## 🗂️ ERD (Entity Relationship Diagram)
 The pipeline follows the ERD model below:
 
-![AWS ETL ERD](docs/AWS-ETL-ERD.png)
+![AWS ETL ERD](AWS%20ETL%20ERD.png)
 
 The diagram illustrates how data flows across the pipeline, including source systems, transformations, and target destinations.
 
